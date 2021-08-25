@@ -12,7 +12,7 @@ Entendemos por **problema** una situación en la que las cosas que tenemos son d
 
 Veamos al personaje de la figura 1.1 quien desea tener una casa nueva; sin embargo, él sólo dispone de los maderos, las pinturas y las herramientas. En síntesis, desea una casa pero sólo tiene los materiales.
 
-![Concepto de problema img](../images/conceptoDeProblema.png "Concepto de problema")
+![Concepto de problema img](../images/solucionDeProblemas/conceptoDeProblema.png "Concepto de problema")
 
 Para enfrentar las situaciones problemáticas se propone un método para "desenrredar" el problema y paulatinamente construir la solución. 
 
